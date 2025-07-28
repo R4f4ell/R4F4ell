@@ -1,7 +1,7 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Rafael+Martins&center=true&size=40&color=58A6FF&font=Fira%20Code&weight=600&pause=1000&repeat=false">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Rafael+Martins&center=true&size=35&color=58A6FF&font=Fira%20Code&weight=600&pause=1000&repeat=false&width=600&height=70">
 </div>
 
 ## 👋 Sobre mim
@@ -43,19 +43,21 @@
 <br>
 
 <div align="center">
-  <a href="mailto:rafael.martins@email.com">
+  <a href="mailto:rafaelmartinssantanadesantana@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://linkedin.com/in/rafael-martins-dev">
+  <a href="https://www.linkedin.com/in/r4f4ellmartinss/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://wa.me/5575999999999">
+  <a href="https://wa.me/5575981867371" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rf4ell&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=R4F4ell&color=brightgreen&style=for-the-badge&label=Visualizações" alt="Profile Views"/>
 </div>
 
 <br>
