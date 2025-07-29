@@ -1,3 +1,4 @@
+
 <br>
 
 <div align="center">
@@ -20,7 +21,7 @@
   <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </div>
 
 ### **Banco de Dados**
@@ -34,13 +35,12 @@
   <img src="https://img.shields.io/badge/Git-E34C26?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
 </div>
 
 <br>
 
-## 📫 Vamos Conversar?
-
-<br>
+## 📫 Contato
 
 <div align="center">
   <a href="mailto:rafaelmartinssantanadesantana@gmail.com">
@@ -57,13 +57,5 @@
 <br>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=R4F4ell&color=brightgreen&style=for-the-badge&label=Visualizações" alt="Profile Views"/>
-</div>
-
-<br>
-
-<div align="center">
-  
-  **"Código limpo não é escrito seguindo regras. É escrito por programadores que se importam."** - *Robert C. Martin*
-  
+  <img src="https://komarev.com/ghpvc/?username=r4f4ell&color=brightgreen&style=for-the-badge&label=Visualizações" alt="Profile Views"/>
 </div>
