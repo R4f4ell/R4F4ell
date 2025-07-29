@@ -43,9 +43,6 @@
 ## 📫 Contato
 
 <div align="center">
-  <a href="mailto:rafaelmartinssantanadesantana@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
   <a href="https://www.linkedin.com/in/r4f4ellmartinss/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
