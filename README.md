@@ -53,6 +53,8 @@
   </a>
 </div>
 
+<br>
+
 <div align="center" style="margin-top: 8px;">
   <img src="https://komarev.com/ghpvc/?username=r4f4ell&color=brightgreen&style=for-the-badge&label=Visualizações" alt="Profile Views"/>
 </div>
