@@ -1,60 +1,84 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:8B5CF6,100:58A6FF&section=header&animation=twinkling" width="100%" alt="wave top"/>
+</div>
+
+<div align="center" style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 16px;">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" 
+       alt="ilustração de um computador" 
+       width="360px" 
+       style="margin-bottom: 8px;" />
+  
+  <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Rafael+Martins;Full+Stack+Developer" alt="Typing SVG" />
+</div>
+
+</p>
+
+</h1>
+
+</p>
+
+</div>
+
+
+
+<div align="center" style="max-width: 800px; margin: 0 auto;">
+  Desenvolvedor <strong>Full Stack</strong>, atualmente estagiando na área e aprimorando minhas habilidades em <strong>front-end</strong> e <strong>back-end</strong>.  
+  Tenho experiência prática com <strong>React</strong>, <strong>TypeScript</strong>, <strong>SCSS</strong> e <strong>Node.js</strong>, além de integração com <strong>APIs REST</strong> e <strong>Supabase</strong>.
+</div>
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:8B5CF6&height=4&section=footer&animation=fadeIn" width="100%" alt="neon line"/>
+</div>
+
+<div align="center">
+  <br>
+  <div align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Habilidades&center=true&size=22&color=8B5CF6&font=Fira%20Code&duration=1&pause=9999999" alt="Habilidades"/></div>
+  <p>
+    <code><img height="40" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
+    <code><img height="40" title="Vite" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" /></code>
+    <code><img height="40" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
+    <code><img height="40" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></code>
+    <code><img height="40" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
+    <code><img height="40" title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
+    <code><img height="40" title="SCSS / SASS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></code>
+    <code><img height="40" title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
+    <code><img height="40" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></code>
+    <code><img height="40" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></code>
+    <code><img height="40" title="Supabase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" /></code>
+    <code><img height="40" title="Vercel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" /></code>
+    <code><img height="40" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
+    <code><img height="40" title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
+    <code><img height="40" title="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
+    <code><img height="40" title="Kanban / Trello" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" /></code>
+    <code><img height="40" title="GitHub Actions (CI/CD)" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" /></code>
+  </p>
+</div>
+
+<br>
+
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Contatos&center=true&size=22&color=8B5CF6&font=Fira%20Code&duration=1&pause=9999999" alt="Contatos"/></div>
+
+<div align="center" style="margin-top: 20px;">
+  <a href="mailto:rafaelmartinssantanadesantana@gmail.com" title="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-8B5CF6?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/r4f4ellmartinss" title="LinkedIn" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-58A6FF?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://wa.me/5575981867371" title="WhatsApp" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-3B82F6?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</div>
+
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Rafael+Martins&center=true&size=35&color=58A6FF&font=Fira%20Code&weight=600&pause=1000&repeat=false&width=600&height=70" alt="Typing SVG"/>
+  <img src="https://komarev.com/ghpvc/?username=r4f4ell&color=8B5CF6&style=for-the-badge&label=VISUALIZAÇÕES" alt="Visualizações"/>
 </div>
 
-## 👋 Sobre mim
 
-🎓 **Desenvolvedor Front-end** especializado em tecnologias modernas  
-💻 **Foco em:** Desenvolvimento web responsivo e sistemas completos  
-🚀 **Atualmente em busca** de oportunidades como desenvolvedor front-end
-
-<br>
-
-## 🛠️ Tecnologias e Ferramentas
-
-### **Frontend**
-<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-</div>
-
-### **Banco de Dados**
-<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
-</div>
-
-### **Ferramentas**
-<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
-  <img src="https://img.shields.io/badge/Git-E34C26?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/API-REST-4c1?style=for-the-badge&logo=api" alt="API REST"/>
-</div>
-
-<br>
-
-## 📫 Contato
-
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 12px; margin-bottom: 16px;">
-  <a href="https://www.linkedin.com/in/r4f4ellmartinss/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://wa.me/5575981867371" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-</div>
-
-<br>
-
-<div align="center" style="margin-top: 8px;">
-  <img src="https://komarev.com/ghpvc/?username=r4f4ell&color=brightgreen&style=for-the-badge&label=Visualizações" alt="Profile Views"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:58A6FF,100:8B5CF6&section=footer&animation=twinkling" width="100%" alt="wave divider"/>
 </div>
