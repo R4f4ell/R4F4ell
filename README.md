@@ -23,8 +23,7 @@
 
 
 <div align="center" style="max-width: 800px; margin: 0 auto;">
-  Desenvolvedor <strong>Full Stack</strong>, atualmente estagiando na área e aprimorando minhas habilidades em <strong>front-end</strong> e <strong>back-end</strong>.  
-  Tenho experiência prática com <strong>React</strong>, <strong>TypeScript</strong>, <strong>SCSS</strong> e <strong>Node.js</strong>, além de integração com <strong>APIs REST</strong> e <strong>Supabase</strong>.
+  Desenvolvedor <strong>Full Stack</strong>
 </div>
 
 
@@ -47,8 +46,6 @@
     <code><img height="40" title="Supabase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" /></code>
     <code><img height="40" title="Vercel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" /></code>
     <code><img height="40" title="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
-    <code><img height="40" title="Kanban / Trello" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" /></code>
-    <code><img height="40" title="GitHub Actions (CI/CD)" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" /></code>
   </p>
 </div>
 
