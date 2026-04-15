@@ -21,12 +21,6 @@
 </div>
 
 
-
-<div align="center" style="max-width: 800px; margin: 0 auto;">
-  Desenvolvedor <strong>Full Stack</strong>
-</div>
-
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:8B5CF6&height=4&section=footer&animation=fadeIn" width="100%" alt="neon line"/>
 </div>
