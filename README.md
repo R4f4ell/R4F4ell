@@ -44,9 +44,6 @@
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Contatos&center=true&size=22&color=8B5CF6&font=Fira%20Code&duration=1&pause=9999999" alt="Contatos"/></div>
 
 <div align="center" style="margin-top: 20px;">
-  <a href="mailto:rafaelmartinssantanadesantana@gmail.com" title="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-8B5CF6?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
   <a href="https://www.linkedin.com/in/r4f4ellmartinss" title="LinkedIn" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-58A6FF?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
